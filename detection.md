@@ -38,7 +38,7 @@ Il y a [désadaptation d’impédance](https://alienor134.gitbooks.io/echopen-gu
 Enfin, il faut assurer la focalisation du faisceau d’onde. Pour les dispositifs usuels qui sont composés d’une rangée de transducteurs, la focalisation se fait par interférences entre les différentes ondes [13](http://www.ob-ultrasound.net/lineararrays.html). Cependant lorsqu’il n’y a qu’une seule source d’émission \(cas d’EchOpen\), on ne peut créer d’interférences. La focalisation se fait avec la forme même de la sortie. Une forme concave permet de focaliser le faisceau. La distance focale est déterminée en fonction de la fréquence caractéristique du piézoélectrique, qui est liée à la profondeur de pénétration. Cette forme concave peut être obtenue grâce au matériaux piézoélectrique lui-même, la couche d’adaptation d’impédance, ou une lentille.
 
 ![](/images/transducer_action.png)  
-_Fonctionnement du transducteur __[14](https://facmed.univ-rennes1.fr/wkf/stock/RENNES20090317042111cpiszkorUS2009.pdf)__, __[15](https://hal.archives-ouvertes.fr/file/index/docid/54260/filename/Memoire_these_Wilm.pdf)_
+_Fonctionnement du transducteur [14](https://facmed.univ-rennes1.fr/wkf/stock/RENNES20090317042111cpiszkorUS2009.pdf), [15](https://hal.archives-ouvertes.fr/file/index/docid/54260/filename/Memoire_these_Wilm.pdf)_
 
 ##### Sélection du matériau piézoélectrique
 
