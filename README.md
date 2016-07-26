@@ -18,7 +18,7 @@ Pour former une image, l’échographe utilise le principe de réflexion des ult
 | Tissus mous | 1450-1700 |  |
 | Os | 3000-4000 |
 
-_Table 1 : La vitesse de propagation des ultrasons pour les médias différents et leur densité dans l'image CT __\[__1\]__._
+_Table 1 : La vitesse de propagation des ultrasons pour les médias différents et leur densité dans l'image CT _**_\[_**_1\]\_\_._
 
 Grâce à ces différences de vitesse de propagation, couplées à la masse volumique de l'organe, chaque organe de notre corps a une impédance acoustique\* qui lui est propre. Cela permet donc une réflexion partielle des ultrasons entre deux tissus de caractéristiques acoustiques différentes
 
@@ -30,7 +30,7 @@ Grâce à ces différences de vitesse de propagation, couplées à la masse volu
 | Tissus mous | 1,3-1,7 |
 | Eau | 1,5 |
 
-_Table 2 : Impédances acoustiques caractéristiques de différentes parties du corps __\[__2\]__._
+_Table 2 : Impédances acoustiques caractéristiques de différentes parties du corps _**_\[_**_2\]\_\_._
 
 Ces valeurs montrent qu’il peut y avoir de grandes différences d’impédance dans le corps telle qu’entre les tissus mous et de l'air et entre les tissus mous et des tissus durs \(os, pierres, corps étrangers\). Ces interfaces sont très réfléchissante ou très "échogènes" \(générateurs d'écho\). Derrière ces interfaces, une zone d'ombre apparaît sur les images échographiques du fait que le signal sonore a été quasiment entièrement réfléchi..
 
@@ -58,14 +58,15 @@ Vers le milieu des années 1980, les transducteurs abdominaux curvilignes ou con
 Dans les années 1990 les avancées importantes ont été \[4\]:
 
 * Le traitement du signal est devenu entièrement analogique. On a la chaîne suivante :
-  **\[****transducteur\]**** -&gt; ****\[****beamformer\]**** -&gt; ****\[****traitement du signal\]**** -&gt; ****\[****convertisseur d’image\]**** -&gt; ****\[****moniteur\]**
+  **\[\*\***transducteur\]**** -&gt; ****\[****beamformer\]**** -&gt; ****\[****traitement du signal\]**** -&gt; ****\[****convertisseur d’image\]**** -&gt; ****\[****moniteur\]\*\*
 
 * L'utilisation de transducteurs larges bandes avec une grande ouverture. Le nombre de canaux dans les systèmes haut de gamme va jusqu'à 256 et plus récemment  1024 \(barrette 2-D\).
 
 
-* La phase des échos est traitée en plus de l'amplitude avec la reconstruction cohérente des images. La technique améliore de deux fois la quantité des données donnant des images haute résolution. La cadence d’imagerie est également augmentée.  
+* La phase des échos est traitée en plus de l'amplitude avec la reconstruction cohérente des images. La technique améliore de deux fois la quantité des données donnant des images haute résolution. La cadence d’imagerie est également augmentée.
 
-* L'avènement de la technique d’imagerie utilisant les harmoniques \(multiples de la fréquence de travail\) phénomène non-linéaire dû à la propagation des ondes dans les tissus.  
+* L'avènement de la technique d’imagerie utilisant les harmoniques \(multiples de la fréquence de travail\) phénomène non-linéaire dû à la propagation des ondes dans les tissus.
+
 
 ![différentes dimensions](/images/diffecho.jpg)
 
