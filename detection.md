@@ -28,12 +28,12 @@ _Table 3: Profondeur maximale de l'exploration échographique pour différentes 
 
 Lorsqu’il n’est pas en train d’émettre un signal, le transducteur passe en mode écoute: l’onde émise va être réfléchie, réfractée, dispersée et absorbée par les tissus. Une partie du signal émis est ainsi renvoyée dans la direction de la sonde et fait vibrer le transducteur, qui va convertir ce signal mécanique en signal électrique.
 
-Le matériau piézoélectrique excité par un pulse\* analogique vibre de part et d’autre de ses faces, or l’onde qui est recherchée est celle qui se propage vers le milieu à explorer. Il faut donc absorber l’onde se propageant dans l’autre direction, d’autant plus qu’elle peut brouiller le signal si elle se réfléchit et revient vers le capteur piézoélectrique. Cette atténuation se fait à l’aide d’un backing.
+Le matériau piézoélectrique excité par un [pulse](https://alienor134.gitbooks.io/echopen-guide-book/content/glossaire.html) analogique vibre de part et d’autre de ses faces, or l’onde qui est recherchée est celle qui se propage vers le milieu à explorer. Il faut donc absorber l’onde se propageant dans l’autre direction, d’autant plus qu’elle peut brouiller le signal si elle se réfléchit et revient vers le capteur piézoélectrique. Cette atténuation se fait à l’aide d’un backing.
 
 ![backing](/images/need_backing.png)  
 _ondes se propageant de part et d'autre du piézoélectrique_
 
-Il y a désadaptation d’impédance_ entre le piézoélectrique et le milieu à explorer. Pour éviter des pertes d’énergie par réflexion à l’interface entre ces deux milieux, on dispose d’une couche d’adaptation d’impédance_ disposée sur la surface du piézoélectrique orientée vers le milieu à explorer.
+Il y a [désadaptation d’impédance](https://alienor134.gitbooks.io/echopen-guide-book/content/glossaire.html) entre le piézoélectrique et le milieu à explorer. Pour éviter des pertes d’énergie par réflexion à l’interface entre ces deux milieux, on dispose d’une couche d’[adaptation d’impédance](https://alienor134.gitbooks.io/echopen-guide-book/content/glossaire.html) disposée sur la surface du piézoélectrique orientée vers le milieu à explorer.
 
 Enfin, il faut assurer la focalisation du faisceau d’onde. Pour les dispositifs usuels qui sont composés d’une rangée de transducteurs, la focalisation se fait par interférences entre les différentes ondes [13](http://www.ob-ultrasound.net/lineararrays.html). Cependant lorsqu’il n’y a qu’une seule source d’émission \(cas d’EchOpen\), on ne peut créer d’interférences. La focalisation se fait avec la forme même de la sortie. Une forme concave permet de focaliser le faisceau. La distance focale est déterminée en fonction de la fréquence caractéristique du piézoélectrique, qui est liée à la profondeur de pénétration. Cette forme concave peut être obtenue grâce au matériaux piézoélectrique lui-même, la couche d’adaptation d’impédance, ou une lentille.
 
