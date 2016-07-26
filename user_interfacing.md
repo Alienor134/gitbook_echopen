@@ -2,5 +2,3 @@
 
 ### Affichage de l’image en temps réel
 ### Interface utilisateur
-
-## Bac de test
