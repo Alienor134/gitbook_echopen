@@ -13,9 +13,9 @@ Pour former une image, l’échographe utilise le principe de réflexion des ult
 
 | Milieu | Vitesse de propagation \(m\/s\) |
 | :--- | :--- |
-| Air | 330 |  |
-| Eau | 1500 |  |
-| Tissus mous | 1450-1700 |  |
+| Air | 330 |
+| Eau | 1500 |
+| Tissus mous | 1450-1700 |
 | Os | 3000-4000 |
 
 _Table 1 : La vitesse de propagation des ultrasons pour les médias différents et leur densité dans l'image CT __\[__1\]__._
