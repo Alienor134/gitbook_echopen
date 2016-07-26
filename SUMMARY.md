@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Introduction à la technique](intro.md/readme.md)
 * [Détection](detection.md)
-* [Signal Analysis](signal_analysis.md)
+* [Analyse du signal](signal_analysis.md)
 * Interface avec l'utilisateur
 
