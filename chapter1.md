@@ -31,7 +31,7 @@ Le choix du piézoélectrique est important: il fixe la fréquence des ultrasons
 | 7,5 | 5-6 |
 | 10-12 | 2-3 |
 
-_Table 3: Profondeur maximale de l'exploration échographique pour différentes fréquences _[_2_](http://www.google.com/patents/WO2006077338A1?cl=en)_._
+_Table 3: Profondeur maximale de l'exploration échographique pour différentes fréquences __[2](http://www.google.com/patents/WO2006077338A1?cl=en)__._
 
 Lorsqu’il n’est pas en train d’émettre un signal, le transducteur passe en mode écoute: l’onde émise va être réfléchie, réfractée, dispersée et absorbée par les tissus. Une partie du signal émis est ainsi renvoyée dans la direction de la sonde et fait vibrer le transducteur, qui va convertir ce signal mécanique en signal électrique.
 
@@ -44,8 +44,8 @@ Il y a désadaptation d’impédance_ entre le piézoélectrique et le milieu à
 
 Enfin, il faut assurer la focalisation du faisceau d’onde. Pour les dispositifs usuels qui sont composés d’une rangée de transducteurs, la focalisation se fait par interférences entre les différentes ondes [13](http://www.ob-ultrasound.net/lineararrays.html). Cependant lorsqu’il n’y a qu’une seule source d’émission \(cas d’EchOpen\), on ne peut créer d’interférences. La focalisation se fait avec la forme même de la sortie. Une forme concave permet de focaliser le faisceau. La distance focale est déterminée en fonction de la fréquence caractéristique du piézoélectrique, qui est liée à la profondeur de pénétration. Cette forme concave peut être obtenue grâce au matériaux piézoélectrique lui-même, la couche d’adaptation d’impédance, ou une lentille.
 
-![Fonctionnement du transducteur](/images/transudcer_action.png)  
-_Fonctionnement du transducteur _[_14_](https://facmed.univ-rennes1.fr/wkf/stock/RENNES20090317042111cpiszkorUS2009.pdf)_, _[_15_](https://hal.archives-ouvertes.fr/file/index/docid/54260/filename/Memoire_these_Wilm.pdf)
+![](/images/transducer_action.png)  
+_Fonctionnement du transducteur __[14](https://facmed.univ-rennes1.fr/wkf/stock/RENNES20090317042111cpiszkorUS2009.pdf)__, __[15](https://hal.archives-ouvertes.fr/file/index/docid/54260/filename/Memoire_these_Wilm.pdf)_
 
 ##### Sélection du matériau piézoélectrique
 
@@ -72,8 +72,6 @@ Elle permet d’éviter une réflexion de l’onde à l’interface piézoélect
 ![](/images/impedance.png)
 
 Les lames généralement utilisées sont des lames quart d’onde: l’épaisseur correspond au quart de la longueur d’onde caractéristique du piézoélectrique dans le milieu de propagation à explorer.
-
-
 
 ### Réalisation de la partie mécanique
 
