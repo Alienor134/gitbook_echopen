@@ -4,7 +4,7 @@
 
 Les ondes ultras-sonores sont des ondes acoustiques \(&gt;20 kHz\), elle peuvent se propager au travers du corps humain. La propagation du signal est fonction des propriétés des tissus traversés. La formation du signal échographique est composé de la réflexion des ondes sur une interface tissulaire de densité différente, et la diffusion des ondes ultras sonores sur les petites particules.
 
-Pour former une image, l’échographe utilise le principe de réflexion des ultrasons : une sonde émet une salve d’ultrasons puis se met à l’écoute des échos réfléchis. Une image échographique est composé de l'ensemble des effets d'atténuation, de réflexion, réfraction et de dispersion. Le corps humain étant un milieu principalement constitué d’eau, les ultrasons s’y déplacent à une vitesse de 1460 m.s-1. Lorsque les ultrasons rencontrent des tissus, graisses ou organes, leur vitesse de propagation change, elle peut alors varier entre 1480 et 1600 $$ m.s^{-1}  $$.
+Pour former une image, l’échographe utilise le principe de réflexion des ultrasons : une sonde émet une salve d’ultrasons puis se met à l’écoute des échos réfléchis. Une image échographique est composé de l'ensemble des effets d'atténuation, de réflexion, réfraction et de dispersion. Le corps humain étant un milieu principalement constitué d’eau, les ultrasons s’y déplacent à une vitesse de 1460 $$ m.s^{-1}  $$. Lorsque les ultrasons rencontrent des tissus, graisses ou organes, leur vitesse de propagation change, elle peut alors varier entre 1480 et 1600 $$ m.s^{-1}  $$.
 
 | Milieu | Vitesse de propagation ($$ m.s^{-1} $$) |
 | :--- | :--- |
