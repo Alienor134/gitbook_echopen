@@ -3,7 +3,7 @@
 ![](/images/signal_analysis.png)  
 _Analyse fonctionnelle_
 
-L’approche présentée ici maximise l’utilisation de traitement analogique du signal, afin de réduire la fréquence d’échantillonnage nécessaire pour la partie numérique, pour avoir un moindre coût et une moindre consommation. Le circuit est sensible aux bruits. Le traitement analogique permettrait un traitement du signal accessible plus facilement et l’ouverture sur de nouvelles techniques, comme l’echosthétoscopie Doppler.
+L’approche présentée ici maximise l’utilisation de traitement analogique du signal, afin de réduire la fréquence d’échantillonnage nécessaire pour la partie numérique, pour avoir un moindre coût et une moindre consommation. Le circuit est sensible aux bruits. Le traitement analogique permettrait un traitement du signal accessible plus facilement et l’ouverture sur de nouvelles techniques, comme l’[echosthétoscopie Doppler](https://alienor134.gitbooks.io/echopen-guide-book/content/glossaire.html).
 
 ### Amplification TGC
 
