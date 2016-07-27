@@ -6,7 +6,7 @@ Les ondes ultras-sonores sont des ondes acoustiques \(&gt;20 kHz\), elle peuvent
 
 Pour former une image, l’échographe utilise le principe de réflexion des ultrasons : une sonde émet une salve d’ultrasons puis se met à l’écoute des échos réfléchis. Une image échographique est composé de l'ensemble des effets d'atténuation, de réflexion, réfraction et de dispersion. Le corps humain étant un milieu principalement constitué d’eau, les ultrasons s’y déplacent à une vitesse de 1460 m.s-1. Lorsque les ultrasons rencontrent des tissus, graisses ou organes, leur vitesse de propagation change, elle peut alors varier entre 1480 et 1600 m.s-1.
 
-| Milieu | Vitesse de propagation \(m\/s\) |
+| Milieu | Vitesse de propagation ($$ m.s^{-1} $$) |
 | :--- | :--- |
 | Air | 330 |
 | Eau | 1500 |
@@ -17,7 +17,7 @@ _Table 1 : La vitesse de propagation des ultrasons pour les médias différents 
 
 Grâce à ces différences de vitesse de propagation, couplées à la masse volumique de l'organe, chaque organe de notre corps a une [impédance acoustique](https://alienor134.gitbooks.io/echopen-guide-book/content/glossaire.html) qui lui est propre. Cela permet donc une réflexion partielle des ultrasons entre deux tissus de caractéristiques acoustiques différentes
 
-| Milieu | Impédance acoustique \($$ kg.m^{-2}.s{-1}\times 10^{-6} $$\) |
+| Milieu | Impédance acoustique ($$ kg.m^{-2}.s^{-1}\times 10^{-6} $$) |
 | :--- | :--- |
 | Air | 0,0004 |
 | Poumon | 0,26 |
@@ -81,8 +81,4 @@ Diagnostic :
 
 * L'échographie \(cadence &gt; 30 images \/ seconde\)\)  
 * Technique Doppler \(mesure de la vitesse d'écoulement du sang\) de densitométrie osseuse \(200 kHz 800 kHz\)  
-
-# Bibliographie
-
-1. 
 
