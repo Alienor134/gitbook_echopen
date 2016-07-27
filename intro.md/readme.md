@@ -1,8 +1,3 @@
----
-plugins:
-  - katex
----
-
 # Introduction à la technique
 
 ## Principe
@@ -22,7 +17,7 @@ _Table 1 : La vitesse de propagation des ultrasons pour les médias différents 
 
 Grâce à ces différences de vitesse de propagation, couplées à la masse volumique de l'organe, chaque organe de notre corps a une [impédance acoustique](https://alienor134.gitbooks.io/echopen-guide-book/content/glossaire.html) qui lui est propre. Cela permet donc une réflexion partielle des ultrasons entre deux tissus de caractéristiques acoustiques différentes
 
-| Milieu | Impédance acoustique \($kg.m^{-2}.s{-1}\times 10^{-6}$\) |
+| Milieu | Impédance acoustique \($$ kg.m^{-2}.s{-1}\times 10^{-6} $$\) |
 | :--- | :--- |
 | Air | 0,0004 |
 | Poumon | 0,26 |
