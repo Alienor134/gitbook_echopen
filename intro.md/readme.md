@@ -53,7 +53,7 @@ Vers le milieu des années 1980, les transducteurs abdominaux curvilignes ou con
 Dans les années 1990 les avancées importantes ont été [4](http://www.google.com/patents/WO2006077338A1?cl=en):
 
 * Le traitement du signal est devenu entièrement analogique. On a la chaîne suivante :
-  **\[****transducteur\]**** -&gt; ****\[****beamformer\]**** -&gt; ****\[****traitement du signal\]**** -&gt; ****\[****convertisseur d’image\]**** -&gt; ****\[****moniteur\]**
+  **\[transducteur\] -&gt; \[beamformer\] -&gt; \[traitement du signal\] -&gt; \[convertisseur d’image\] -&gt; \[moniteur\]**
 
 * L'utilisation de transducteurs larges bandes avec une grande ouverture. Le nombre de canaux dans les systèmes haut de gamme va jusqu'à 256 et plus récemment  1024 \(barrette 2-D\).
 
